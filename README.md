@@ -1,4 +1,4 @@
-- 👋 Hi, My name is William
+- 👋 Hi, my name is William
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Bussiness Intelligence techniques and tools for data analisys
 - 💞️ I’m looking to collaborate on Excel, Power BI, SQL, Python
