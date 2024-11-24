@@ -2,7 +2,17 @@
 
 **`Analista de Dados`**
 
-Me chamo William Mesquita Godinho, tenho 35 anos, sou casado, tenho um filho e moro em Santo André - SP. Concluí o ensino médio técnico em montagem de manuteção de computadores. Atualmente trabalho como analista de dados no setor educacional. No momento estou aprofundando meus conhecimentos em Power BI e aprendendo Python para análise de dados. Sou formado em Psicologia, mas sempre trabalhei direta ou indiretamente com tecnologia desde 2007 e sou apaixonado pela área desde a adolescência. Também possuo experiência com gestão de pessoas e atendimento ao cliente.
+Me chamo William Mesquita Godinho, tenho 35 anos, sou casado, tenho um filho e moro em Santo André - SP.
+
+Concluí o ensino médio técnico em montagem de manuteção de computadores.
+
+Atualmente trabalho como analista de dados no setor educacional.
+
+No momento estou aprofundando meus conhecimentos em Power BI e aprendendo Python para análise de dados.
+
+Sou formado em Psicologia, mas sempre trabalhei direta ou indiretamente com tecnologia desde 2007 e sou apaixonado pela área desde a adolescência.
+
+Também possuo experiência com gestão de pessoas e atendimento ao cliente.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/william-mesquita-godinho-b632a3102/">
