@@ -14,7 +14,7 @@ Sou formado em Psicologia, mas sempre trabalhei direta ou indiretamente com tecn
 
 Também possuo experiência com gestão de pessoas e atendimento ao cliente.
 
-
+<br>
 <p align="left">
     <a href="https://www.linkedin.com/in/william-mesquita-godinho-b632a3102/">
         <img 
